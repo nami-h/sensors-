@@ -4,5 +4,5 @@ It measures and displays :
 2) magnetic flux density
 3) acceleration due to gravity
 4) rotational motion 
-in all three axes separately and combined and light intensity.  
+in all three axes separately and combined along with light intensity.  
  
